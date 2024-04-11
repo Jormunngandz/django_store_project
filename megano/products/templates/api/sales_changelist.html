@@ -1,0 +1,11 @@
+{% extends 'admin/change_list.html' %}
+
+{% block object-tools-items %}
+    {% load admin_urls %}
+<li>
+    <a href="{% url 'admin:add_products_to_sale'%}" class="addlink">
+    Add products to sale
+    </a>
+</li>
+{{ block.super }}
+{% endblock %}

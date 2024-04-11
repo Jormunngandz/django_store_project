@@ -1,0 +1,8 @@
+diploma-frontend @ file:///home/dodo/PycharmProjects/Skillbox/python_django_diploma/python_django_diploma/diploma-frontend/dist/diploma-frontend-0.6.tar.gz#sha256=d46ace3f0add9477533ae1e9b4de2855efd71c9b1e9ef29358c032bf90b70c0a
+Django==4.2.4
+django-filter==23.2
+django-upload-validator==1.1.6
+djangorestframework==3.14.0
+drf-spectacular==0.26.5
+Pillow==10.0.0
+

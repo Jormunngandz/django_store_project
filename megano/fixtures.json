@@ -1,0 +1,5210 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2023-10-26T05:41:22.869Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Laptop",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2023-10-26T05:41:25.428Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "Tablet",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2023-10-26T05:41:32.623Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "PC",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2023-10-26T05:41:54.634Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "Smartphone",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2023-10-26T05:42:07.457Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "Android phones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2023-10-26T05:42:13.298Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Apple phones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2023-10-26T05:42:22.339Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "Monitors",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2023-10-26T05:42:26.016Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "TV",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2023-10-26T05:42:42.441Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Printers",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2023-10-26T05:42:53.594Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "10",
+      "object_repr": "Inkjet printers",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2023-10-26T05:42:59.163Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "Laser printers",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2023-10-26T05:43:10.944Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "Scanners",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2023-10-26T05:43:44.776Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "13",
+      "object_repr": "Barcode scanners",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2023-10-26T05:43:54.840Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "14",
+      "object_repr": "Document scanners",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2023-10-26T05:44:12.525Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "15",
+      "object_repr": "Input devices",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2023-10-26T05:44:17.632Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "16",
+      "object_repr": "Mouses",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2023-10-26T05:44:22.147Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "17",
+      "object_repr": "Keyboards",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2023-10-26T05:46:50.073Z",
+      "user": 3,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Desktop image",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2023-10-26T05:47:00.264Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "PC",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2023-10-26T06:01:14.556Z",
+      "user": 3,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Tablet image",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2023-10-26T06:01:20.042Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "2",
+      "object_repr": "Tablet",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2023-10-26T07:14:13.684Z",
+      "user": 3,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "Laptop image",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2023-10-26T07:14:32.646Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "3",
+      "object_repr": "Laptops",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2023-10-30T20:24:49.556Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "adsafasa (Tablet)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2023-11-13T10:17:34.325Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "New tablet (Tablet)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2023-11-13T10:19:54.632Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "Планшет Samsung Galaxy Tab S9+ (Tablet)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Price\", \"Title\", \"Description\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2023-11-13T10:31:18.666Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "Планшет Huawei MatePad Air (Tablet)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"\\u041f\\u043b\\u0430\\u043d\\u0448\\u0435\\u0442 Huawei MatePad Air\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2023-11-13T10:35:00.571Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "Планшет Huawei MatePad Air (Tablet)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"name\": \"product image\", \"object\": \"\\u041f\\u043b\\u0430\\u043d\\u0448\\u0435\\u0442 Huawei MatePad Air\", \"fields\": [\"\\u0421\\u0441\\u044b\\u043b\\u043a\\u0430\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2023-11-15T04:44:23.812Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "Планшет Digma Optima 8 X701 (Tablet)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"\\u041f\\u043b\\u0430\\u043d\\u0448\\u0435\\u0442 Digma Optima 8 X701\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (1)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (2)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (3)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2023-11-15T04:44:57.908Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "Планшет Huawei MatePad Air (Tablet)",
+      "action_flag": 2,
+      "change_message": "[{\"added\": {\"name\": \"specification\", \"object\": \"Specification object (4)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (5)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (6)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2023-11-15T04:45:36.308Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "Планшет Samsung Galaxy Tab S9+ (Tablet)",
+      "action_flag": 2,
+      "change_message": "[{\"added\": {\"name\": \"specification\", \"object\": \"Specification object (7)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (8)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (9)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2023-11-15T04:51:08.373Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "4",
+      "object_repr": "Планшет Honor Pad X9 ELN-W09 (Tablet)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (10)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (11)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (12)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2023-11-15T05:01:37.269Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "5",
+      "object_repr": "Планшет Samsung Galaxy Tab S9 Ultra SM-X910 (Tablet)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (13)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (14)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (15)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2023-11-15T05:15:37.949Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "6",
+      "object_repr": "Ноутбук игровой MSI Sword 17 A11UD-810XRU (Laptops)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (16)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (17)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (18)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2023-11-15T05:19:45.131Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "7",
+      "object_repr": "Ноутбук игровой MSI GF63 Thin 11SC-623XRU (Laptops)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (19)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (20)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (21)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2023-11-15T05:21:48.019Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "8",
+      "object_repr": "Ноутбук игровой ASUS TUF Gaming F15 FX506HF-HN027 (Laptops)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (22)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (23)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (24)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2023-11-15T05:23:56.291Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "9",
+      "object_repr": "Ноутбук Huawei MateBook D 14 MDF-X (Laptops)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (25)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (26)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (27)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2023-11-15T05:25:08.234Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "10",
+      "object_repr": "Ноутбук TECNO MegaBook T1 (Laptops)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (28)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (29)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (30)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2023-11-15T06:20:24.964Z",
+      "user": 3,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2023-11-15T06:20:33.390Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "4",
+      "object_repr": "Smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2023-11-15T06:21:25.468Z",
+      "user": 3,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "apple smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2023-11-15T06:21:40.708Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "5",
+      "object_repr": "Apple Smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2023-11-15T06:22:36.374Z",
+      "user": 3,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Samsung smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2023-11-15T06:22:46.360Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "6",
+      "object_repr": "Samsung smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2023-11-15T06:30:19.216Z",
+      "user": 3,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "Honor smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2023-11-15T06:30:34.787Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "7",
+      "object_repr": "Honor smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2023-11-15T06:41:56.213Z",
+      "user": 3,
+      "content_type": 7,
+      "object_id": "8",
+      "object_repr": "Xiaomi smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+      "action_time": "2023-11-15T06:42:03.641Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "8",
+      "object_repr": "Xiaomi smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+      "action_time": "2023-11-15T06:44:05.693Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "10",
+      "object_repr": "Ноутбук TECNO MegaBook T1 (Laptops)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+      "action_time": "2023-11-15T06:44:16.297Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "9",
+      "object_repr": "Ноутбук Huawei MateBook D 14 MDF-X (Laptops)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+      "action_time": "2023-11-15T06:44:22.926Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "8",
+      "object_repr": "Ноутбук игровой ASUS TUF Gaming F15 FX506HF-HN027 (Laptops)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+      "action_time": "2023-11-15T06:44:34.260Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "7",
+      "object_repr": "Ноутбук игровой MSI GF63 Thin 11SC-623XRU (Laptops)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+      "action_time": "2023-11-15T06:44:39.771Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "6",
+      "object_repr": "Ноутбук игровой MSI Sword 17 A11UD-810XRU (Laptops)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+      "action_time": "2023-11-15T06:44:48.460Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "5",
+      "object_repr": "Планшет Samsung Galaxy Tab S9 Ultra SM-X910 (Tablet)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+      "action_time": "2023-11-15T06:45:28.013Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "Планшет Samsung Galaxy Tab S9+ (Tablet)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+      "action_time": "2023-11-15T06:45:34.899Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "4",
+      "object_repr": "Планшет Honor Pad X9 ELN-W09 (Tablet)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+      "action_time": "2023-11-15T06:56:12.591Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "11",
+      "object_repr": "Смартфон Apple iPhone 15 Pro 256Gb (Apple Smartphones)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (31)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (32)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (33)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+      "action_time": "2023-11-15T06:58:03.968Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "12",
+      "object_repr": "Apple iPhone 15 Pro Max 512Gb (Apple Smartphones)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (34)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (35)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (36)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+      "action_time": "2023-11-15T07:27:56.053Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "13",
+      "object_repr": "Смартфон Samsung Galaxy A54 (Samsung smartphones)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (37)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (38)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (39)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+      "action_time": "2023-11-15T07:29:21.163Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "14",
+      "object_repr": "Samsung Galaxy S23 Ultra 5G (Samsung smartphones)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (40)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (41)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (42)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+      "action_time": "2023-11-15T07:51:01.618Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "15",
+      "object_repr": "Смартфон Honor X9a 5G (Honor smartphones)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (43)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (44)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (45)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+      "action_time": "2023-11-15T07:52:25.226Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "16",
+      "object_repr": "Смартфон Honor X8a (Honor smartphones)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (46)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (47)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (48)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+      "action_time": "2023-11-15T07:55:15.156Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "17",
+      "object_repr": "Смартфон Xiaomi Poco C40 (Honor smartphones)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (49)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (50)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (51)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+      "action_time": "2023-11-15T07:56:49.312Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "18",
+      "object_repr": "Смартфон Xiaomi Poco M5 (Xiaomi smartphones)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (52)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (53)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (54)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+      "action_time": "2023-11-15T08:00:39.154Z",
+      "user": 3,
+      "content_type": 7,
+      "object_id": "9",
+      "object_repr": "Samsung Tablets",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+      "action_time": "2023-11-15T08:00:52.174Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "9",
+      "object_repr": "Samsung Tablets",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+      "action_time": "2023-11-15T08:02:15.588Z",
+      "user": 3,
+      "content_type": 7,
+      "object_id": "10",
+      "object_repr": "Honor tablets",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+      "action_time": "2023-11-15T08:02:22.453Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "10",
+      "object_repr": "Honor tablets",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+      "action_time": "2023-11-15T08:03:00.398Z",
+      "user": 3,
+      "content_type": 7,
+      "object_id": "11",
+      "object_repr": "Digma tablets",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+      "action_time": "2023-11-15T08:03:07.025Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "11",
+      "object_repr": "Digma tablets",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+      "action_time": "2023-11-15T08:03:20.637Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "5",
+      "object_repr": "Планшет Samsung Galaxy Tab S9 Ultra SM-X910 (Samsung Tablets)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+      "action_time": "2023-11-15T08:03:35.054Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "Планшет Digma Optima 8 X701 (Digma tablets)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+      "action_time": "2023-11-15T08:03:46.972Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "4",
+      "object_repr": "Планшет Honor Pad X9 ELN-W09 (Honor tablets)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+      "action_time": "2023-11-15T08:04:03.831Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "Планшет Samsung Galaxy Tab S9+ (Samsung Tablets)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+      "action_time": "2023-11-15T08:17:09.079Z",
+      "user": 3,
+      "content_type": 7,
+      "object_id": "12",
+      "object_repr": "Desktop category",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+      "action_time": "2023-11-15T08:17:20.162Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "18",
+      "object_repr": "Desktop",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+      "action_time": "2023-11-15T08:17:28.960Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "12",
+      "object_repr": "Desktop",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+      "action_time": "2023-11-15T08:19:22.482Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "19",
+      "object_repr": "Компьютер iRU Game 310H5GS (Desktop)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (55)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (56)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (57)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+      "action_time": "2023-11-15T08:21:17.990Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "20",
+      "object_repr": "Компьютер MSI Infinite 11TH-1610XRU (Desktop)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (58)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (59)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (60)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+      "action_time": "2023-11-15T08:22:33.820Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "21",
+      "object_repr": "Компьютер iRU Game 310H5GMA (Desktop)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"product image\", \"object\": \"Image alt string\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (61)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (62)\"}}, {\"added\": {\"name\": \"specification\", \"object\": \"Specification object (63)\"}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+      "action_time": "2023-11-15T09:57:15.945Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "19",
+      "object_repr": "Samsung tablets",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+      "action_time": "2023-11-15T09:57:21.218Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "9",
+      "object_repr": "Samsung Tablets",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+      "action_time": "2023-11-15T09:59:10.459Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "20",
+      "object_repr": "Digma tablets",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+      "action_time": "2023-11-15T09:59:14.866Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "11",
+      "object_repr": "Digma tablets",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 85,
+    "fields": {
+      "action_time": "2023-11-15T09:59:22.005Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "21",
+      "object_repr": "Honor tablets",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 86,
+    "fields": {
+      "action_time": "2023-11-15T09:59:24.619Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "10",
+      "object_repr": "Honor tablets",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 87,
+    "fields": {
+      "action_time": "2023-11-15T09:59:41.681Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "22",
+      "object_repr": "Xiaomi smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 88,
+    "fields": {
+      "action_time": "2023-11-15T09:59:44.393Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "8",
+      "object_repr": "Xiaomi smartphones",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 89,
+    "fields": {
+      "action_time": "2023-11-15T09:59:56.875Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "23",
+      "object_repr": "Honor smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 90,
+    "fields": {
+      "action_time": "2023-11-15T09:59:59.073Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "7",
+      "object_repr": "Honor smartphones",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 91,
+    "fields": {
+      "action_time": "2023-11-15T10:00:07.661Z",
+      "user": 3,
+      "content_type": 8,
+      "object_id": "24",
+      "object_repr": "Samsung smartphones",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 92,
+    "fields": {
+      "action_time": "2023-11-15T10:00:10.138Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "6",
+      "object_repr": "Samsung smartphones",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 93,
+    "fields": {
+      "action_time": "2023-11-15T10:00:17.850Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "5",
+      "object_repr": "Apple Smartphones",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 94,
+    "fields": {
+      "action_time": "2023-11-15T10:00:26.559Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "3",
+      "object_repr": "Laptops",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 95,
+    "fields": {
+      "action_time": "2023-11-15T10:00:37.459Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "12",
+      "object_repr": "Desktop",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 96,
+    "fields": {
+      "action_time": "2023-11-15T10:00:41.426Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "PC",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 97,
+    "fields": {
+      "action_time": "2023-11-15T10:00:45.386Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "12",
+      "object_repr": "Desktop",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 98,
+    "fields": {
+      "action_time": "2023-11-15T10:00:48.244Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "11",
+      "object_repr": "Digma tablets",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 99,
+    "fields": {
+      "action_time": "2023-11-15T10:00:53.365Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "10",
+      "object_repr": "Honor tablets",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 100,
+    "fields": {
+      "action_time": "2023-11-15T10:00:56.802Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "9",
+      "object_repr": "Samsung Tablets",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 101,
+    "fields": {
+      "action_time": "2023-11-15T10:00:59.375Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "8",
+      "object_repr": "Xiaomi smartphones",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 102,
+    "fields": {
+      "action_time": "2023-11-15T10:01:02.988Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "8",
+      "object_repr": "Xiaomi smartphones",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 103,
+    "fields": {
+      "action_time": "2023-11-15T10:01:05.451Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "7",
+      "object_repr": "Honor smartphones",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 104,
+    "fields": {
+      "action_time": "2023-11-15T10:01:07.440Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "6",
+      "object_repr": "Samsung smartphones",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 105,
+    "fields": {
+      "action_time": "2023-11-15T10:01:09.864Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "5",
+      "object_repr": "Apple Smartphones",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 106,
+    "fields": {
+      "action_time": "2023-11-15T10:01:11.628Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "4",
+      "object_repr": "Smartphones",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 107,
+    "fields": {
+      "action_time": "2023-11-15T10:01:13.996Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "3",
+      "object_repr": "Laptops",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 108,
+    "fields": {
+      "action_time": "2023-11-15T10:01:17.424Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "2",
+      "object_repr": "Tablet",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 109,
+    "fields": {
+      "action_time": "2023-11-15T10:01:20.903Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "3",
+      "object_repr": "Laptops",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 110,
+    "fields": {
+      "action_time": "2023-11-15T10:01:22.657Z",
+      "user": 3,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "PC",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 111,
+    "fields": {
+      "action_time": "2023-11-15T10:07:04.688Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "19",
+      "object_repr": "Компьютер iRU Game 310H5GS (Desktop)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Limited\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 112,
+    "fields": {
+      "action_time": "2023-11-15T10:07:09.644Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "17",
+      "object_repr": "Смартфон Xiaomi Poco C40 (Honor smartphones)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Limited\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 113,
+    "fields": {
+      "action_time": "2023-11-15T10:07:15.511Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "Планшет Digma Optima 8 X701 (Digma tablets)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Limited\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 114,
+    "fields": {
+      "action_time": "2023-11-15T10:08:38.416Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 115,
+    "fields": {
+      "action_time": "2023-11-15T12:27:40.879Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 116,
+    "fields": {
+      "action_time": "2023-11-15T12:27:55.124Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 117,
+    "fields": {
+      "action_time": "2023-11-15T12:28:15.014Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 118,
+    "fields": {
+      "action_time": "2023-11-15T12:28:27.119Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 119,
+    "fields": {
+      "action_time": "2023-11-15T12:29:59.011Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 120,
+    "fields": {
+      "action_time": "2023-11-15T12:30:03.153Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 121,
+    "fields": {
+      "action_time": "2023-11-15T12:30:25.261Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 122,
+    "fields": {
+      "action_time": "2023-11-15T12:30:38.421Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 123,
+    "fields": {
+      "action_time": "2023-11-15T12:30:46.265Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 124,
+    "fields": {
+      "action_time": "2023-11-15T12:30:56.721Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 125,
+    "fields": {
+      "action_time": "2023-11-15T12:31:16.018Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 126,
+    "fields": {
+      "action_time": "2023-11-15T12:31:24.731Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 127,
+    "fields": {
+      "action_time": "2023-11-15T12:31:44.935Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 128,
+    "fields": {
+      "action_time": "2023-11-15T12:32:25.752Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 129,
+    "fields": {
+      "action_time": "2023-11-15T12:33:02.403Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 130,
+    "fields": {
+      "action_time": "2023-11-15T12:59:46.282Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 131,
+    "fields": {
+      "action_time": "2023-11-15T13:01:26.347Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 132,
+    "fields": {
+      "action_time": "2023-11-15T13:01:43.495Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 133,
+    "fields": {
+      "action_time": "2023-11-15T13:02:14.664Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 134,
+    "fields": {
+      "action_time": "2023-11-15T13:03:24.087Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "8",
+      "object_repr": "Ноутбук игровой ASUS TUF Gaming F15 FX506HF-HN027 (Laptops)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 135,
+    "fields": {
+      "action_time": "2023-11-15T13:03:37.919Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 136,
+    "fields": {
+      "action_time": "2023-11-15T13:03:45.800Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 137,
+    "fields": {
+      "action_time": "2023-11-16T06:14:15.618Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 138,
+    "fields": {
+      "action_time": "2023-11-16T06:14:24.482Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 139,
+    "fields": {
+      "action_time": "2023-11-16T06:16:20.748Z",
+      "user": 3,
+      "content_type": 11,
+      "object_id": "21",
+      "object_repr": "Компьютер iRU Game 310H5GMA (Desktop)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 140,
+    "fields": {
+      "action_time": "2023-11-16T06:16:33.242Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 141,
+    "fields": {
+      "action_time": "2023-11-16T06:16:40.184Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 142,
+    "fields": {
+      "action_time": "2023-11-16T06:17:10.451Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 143,
+    "fields": {
+      "action_time": "2023-11-16T06:17:31.684Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 144,
+    "fields": {
+      "action_time": "2023-11-16T06:17:58.228Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 145,
+    "fields": {
+      "action_time": "2023-12-04T08:11:55.145Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Notebook sales",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 146,
+    "fields": {
+      "action_time": "2023-12-04T09:45:11.616Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Sale_name1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 147,
+    "fields": {
+      "action_time": "2023-12-04T09:49:18.840Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Sale_name2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 148,
+    "fields": {
+      "action_time": "2023-12-04T09:51:33.723Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Sale_name2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 149,
+    "fields": {
+      "action_time": "2023-12-04T09:52:59.591Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Sale_name23",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 150,
+    "fields": {
+      "action_time": "2023-12-04T09:53:24.312Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "7",
+      "object_repr": "Sale_name23",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 151,
+    "fields": {
+      "action_time": "2023-12-04T09:56:47.922Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "7",
+      "object_repr": "Sale_name23",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 152,
+    "fields": {
+      "action_time": "2023-12-04T09:56:47.932Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Sale_name23",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 153,
+    "fields": {
+      "action_time": "2023-12-04T09:56:47.936Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Sale_name2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 154,
+    "fields": {
+      "action_time": "2023-12-04T09:56:47.940Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Sale_name2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 155,
+    "fields": {
+      "action_time": "2023-12-04T09:56:47.943Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Sale_name1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 156,
+    "fields": {
+      "action_time": "2023-12-04T09:56:47.947Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Notebook sales",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 157,
+    "fields": {
+      "action_time": "2023-12-04T10:03:45.918Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "8",
+      "object_repr": "Sale_name2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 158,
+    "fields": {
+      "action_time": "2023-12-04T10:06:37.946Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "9",
+      "object_repr": "Sale_name12",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 159,
+    "fields": {
+      "action_time": "2023-12-04T10:06:54.919Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "10",
+      "object_repr": "Sale_name23",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 160,
+    "fields": {
+      "action_time": "2023-12-04T10:07:21.932Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "11",
+      "object_repr": "Sale_name22",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 161,
+    "fields": {
+      "action_time": "2023-12-04T10:07:47.170Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "12",
+      "object_repr": "Sale_name23",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 162,
+    "fields": {
+      "action_time": "2023-12-04T10:08:22.343Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "12",
+      "object_repr": "Sale_name23",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 163,
+    "fields": {
+      "action_time": "2023-12-04T10:08:22.348Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "11",
+      "object_repr": "Sale_name22",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 164,
+    "fields": {
+      "action_time": "2023-12-04T10:08:22.351Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "10",
+      "object_repr": "Sale_name23",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 165,
+    "fields": {
+      "action_time": "2023-12-04T10:08:22.358Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "9",
+      "object_repr": "Sale_name12",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 166,
+    "fields": {
+      "action_time": "2023-12-04T10:08:22.367Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "8",
+      "object_repr": "Sale_name2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 167,
+    "fields": {
+      "action_time": "2023-12-04T10:08:29.367Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "13",
+      "object_repr": "Sale_name1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 168,
+    "fields": {
+      "action_time": "2023-12-04T10:08:41.502Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "14",
+      "object_repr": "Sale_name2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 169,
+    "fields": {
+      "action_time": "2023-12-04T10:09:08.621Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "14",
+      "object_repr": "Sale_name2",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 170,
+    "fields": {
+      "action_time": "2023-12-04T10:09:17.826Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "14",
+      "object_repr": "Sale_name2",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 171,
+    "fields": {
+      "action_time": "2023-12-04T10:09:24.497Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "14",
+      "object_repr": "Sale_name2",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 172,
+    "fields": {
+      "action_time": "2023-12-04T10:09:28.845Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "14",
+      "object_repr": "Sale_name2",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 173,
+    "fields": {
+      "action_time": "2023-12-04T10:09:38.530Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "14",
+      "object_repr": "Sale_name2",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 174,
+    "fields": {
+      "action_time": "2023-12-04T10:13:19.233Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "15",
+      "object_repr": "Sale_name34",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 175,
+    "fields": {
+      "action_time": "2023-12-04T10:17:54.551Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "16",
+      "object_repr": "Sale_name2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 176,
+    "fields": {
+      "action_time": "2023-12-04T10:18:35.864Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "16",
+      "object_repr": "Sale_name2",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 177,
+    "fields": {
+      "action_time": "2023-12-04T10:19:56.914Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "16",
+      "object_repr": "Sale_name2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 178,
+    "fields": {
+      "action_time": "2023-12-04T10:19:56.923Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "15",
+      "object_repr": "Sale_name34",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 179,
+    "fields": {
+      "action_time": "2023-12-04T10:19:56.927Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "14",
+      "object_repr": "Sale_name2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 180,
+    "fields": {
+      "action_time": "2023-12-04T10:19:56.931Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "13",
+      "object_repr": "Sale_name1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 181,
+    "fields": {
+      "action_time": "2023-12-04T10:19:56.938Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Smartphone sales",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 182,
+    "fields": {
+      "action_time": "2023-12-04T10:20:04.907Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "17",
+      "object_repr": "Sale_name1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 183,
+    "fields": {
+      "action_time": "2023-12-04T10:21:36.713Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "18",
+      "object_repr": "Sale_name2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 184,
+    "fields": {
+      "action_time": "2023-12-04T10:22:06.307Z",
+      "user": 3,
+      "content_type": 9,
+      "object_id": "17",
+      "object_repr": "Sale_name1",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 185,
+    "fields": {
+      "action_time": "2023-12-11T15:30:28.302Z",
+      "user": 3,
+      "content_type": 18,
+      "object_id": "5",
+      "object_repr": "admin",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add category image",
+      "content_type": 7,
+      "codename": "add_categoryimage"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change category image",
+      "content_type": 7,
+      "codename": "change_categoryimage"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete category image",
+      "content_type": 7,
+      "codename": "delete_categoryimage"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view category image",
+      "content_type": 7,
+      "codename": "view_categoryimage"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add tag",
+      "content_type": 8,
+      "codename": "add_tag"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change tag",
+      "content_type": 8,
+      "codename": "change_tag"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete tag",
+      "content_type": 8,
+      "codename": "delete_tag"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view tag",
+      "content_type": 8,
+      "codename": "view_tag"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add sale",
+      "content_type": 9,
+      "codename": "add_sale"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change sale",
+      "content_type": 9,
+      "codename": "change_sale"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete sale",
+      "content_type": 9,
+      "codename": "delete_sale"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view sale",
+      "content_type": 9,
+      "codename": "view_sale"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add category",
+      "content_type": 10,
+      "codename": "add_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change category",
+      "content_type": 10,
+      "codename": "change_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete category",
+      "content_type": 10,
+      "codename": "delete_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view category",
+      "content_type": 10,
+      "codename": "view_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add product",
+      "content_type": 11,
+      "codename": "add_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change product",
+      "content_type": 11,
+      "codename": "change_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete product",
+      "content_type": 11,
+      "codename": "delete_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view product",
+      "content_type": 11,
+      "codename": "view_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+      "name": "Can add specification",
+      "content_type": 12,
+      "codename": "add_specification"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+      "name": "Can change specification",
+      "content_type": 12,
+      "codename": "change_specification"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+      "name": "Can delete specification",
+      "content_type": 12,
+      "codename": "delete_specification"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+      "name": "Can view specification",
+      "content_type": 12,
+      "codename": "view_specification"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+      "name": "Can add review",
+      "content_type": 13,
+      "codename": "add_review"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+      "name": "Can change review",
+      "content_type": 13,
+      "codename": "change_review"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+      "name": "Can delete review",
+      "content_type": 13,
+      "codename": "delete_review"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+      "name": "Can view review",
+      "content_type": 13,
+      "codename": "view_review"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+      "name": "Can add product image",
+      "content_type": 14,
+      "codename": "add_productimage"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+      "name": "Can change product image",
+      "content_type": 14,
+      "codename": "change_productimage"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+      "name": "Can delete product image",
+      "content_type": 14,
+      "codename": "delete_productimage"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+      "name": "Can view product image",
+      "content_type": 14,
+      "codename": "view_productimage"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+      "name": "Can add order",
+      "content_type": 15,
+      "codename": "add_order"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+      "name": "Can change order",
+      "content_type": 15,
+      "codename": "change_order"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+      "name": "Can delete order",
+      "content_type": 15,
+      "codename": "delete_order"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+      "name": "Can view order",
+      "content_type": 15,
+      "codename": "view_order"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+      "name": "Can add order item",
+      "content_type": 16,
+      "codename": "add_orderitem"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+      "name": "Can change order item",
+      "content_type": 16,
+      "codename": "change_orderitem"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+      "name": "Can delete order item",
+      "content_type": 16,
+      "codename": "delete_orderitem"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+      "name": "Can view order item",
+      "content_type": 16,
+      "codename": "view_orderitem"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 65,
+    "fields": {
+      "name": "Can add Аватар",
+      "content_type": 17,
+      "codename": "add_avatar"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 66,
+    "fields": {
+      "name": "Can change Аватар",
+      "content_type": 17,
+      "codename": "change_avatar"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 67,
+    "fields": {
+      "name": "Can delete Аватар",
+      "content_type": 17,
+      "codename": "delete_avatar"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 68,
+    "fields": {
+      "name": "Can view Аватар",
+      "content_type": 17,
+      "codename": "view_avatar"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 69,
+    "fields": {
+      "name": "Can add profile",
+      "content_type": 18,
+      "codename": "add_profile"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 70,
+    "fields": {
+      "name": "Can change profile",
+      "content_type": 18,
+      "codename": "change_profile"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 71,
+    "fields": {
+      "name": "Can delete profile",
+      "content_type": 18,
+      "codename": "delete_profile"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 72,
+    "fields": {
+      "name": "Can view profile",
+      "content_type": 18,
+      "codename": "view_profile"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$Km5m6pq2sQ1BGKhFv9kzvX$Ll8T92oc99SF70/E9/FTJJjBhKogGzZ166DCGInmvCM=",
+      "last_login": "2023-12-04T12:24:40.100Z",
+      "is_superuser": false,
+      "username": "dodo",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-10-25T10:13:27.897Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$2o4QJIfqEbvHx04p0quYPr$UURgEQcRZSJks46klnTitFIANkAhAy3jHlBqQYYQhsE=",
+      "last_login": "2023-12-11T15:36:29.039Z",
+      "is_superuser": false,
+      "username": "user1",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-10-25T10:13:42.483Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$LKn0YEGwz58yXaH4ymu0Fo$z/vw4LCBWSGMhmWsNvQZ4aEMGTlUW7/9nx66s72LK7o=",
+      "last_login": "2023-12-11T15:36:04.665Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-10-25T10:38:06.362Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$mqWYaKrSXcrJN2rv6LGuQF$F1PWvQFzT/hDSq6xVBG1t4qhHCreApXUqmFwUQ91zHo=",
+      "last_login": "2023-12-11T18:04:59.736Z",
+      "is_superuser": false,
+      "username": "user2",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-10-26T05:39:41.785Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 5,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$rJ7aZy48Y3pHRcXB7tMaOL$kBkHW5WR/BZzJ2IhIiV9pcYC8/N0vuWVTfbExpyVUPo=",
+      "last_login": "2023-12-04T06:31:07.425Z",
+      "is_superuser": false,
+      "username": "Dodo",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-12-04T06:31:06.815Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "auth",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "products",
+      "model": "categoryimage"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "products",
+      "model": "tag"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+      "app_label": "products",
+      "model": "sale"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+      "app_label": "products",
+      "model": "category"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+      "app_label": "products",
+      "model": "product"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+      "app_label": "products",
+      "model": "specification"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+      "app_label": "products",
+      "model": "review"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+      "app_label": "products",
+      "model": "productimage"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+      "app_label": "orders",
+      "model": "order"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+      "app_label": "orders",
+      "model": "orderitem"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 17,
+    "fields": {
+      "app_label": "users",
+      "model": "avatar"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 18,
+    "fields": {
+      "app_label": "users",
+      "model": "profile"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "0xbj7895i2pqy8voknfa06m4te9x2b0v",
+    "fields": {
+      "session_data": ".eJxVjDsOgzAQBe-ydWTZrD9AmT5nsNZeE0giW8JQIe4ekGho38y8DSLNC_Tb_gBP6zL6tabZTww9INy2QPGb8gn4Q_ldRCx5macgTkVctIpX4fR7Xu7tYKQ6HnXj9IBK67aVKlHQShppB9NJ59BGi8yGUBupDAV03NgQh8MNKNmg6izsf_CuOb8:1r3Vo1:uz65nXuPtou_ko3HuTEqGWy3vaij3yrWWALPudnK4g0",
+      "expire_date": "2023-11-30T06:24:49.358Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "32sr0vsh8s82rh7b7146a54nxe5trba8",
+    "fields": {
+      "session_data": "eyJjYXJ0Ijp7fX0:1rA826:QCBeJAjm3DU5RBFipOmSH2y1ij9MgqXVLZvHzSr-wQM",
+      "expire_date": "2023-12-18T12:26:42.062Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "biq6rykzezj5v3y4zmzdvceb6bvc2lis",
+    "fields": {
+      "session_data": "eyJjYXJ0Ijp7fX0:1qxkPB:j1f01VYB-PQm3eQIyvlcHMN8t2sursWdFI3cBpZeMhc",
+      "expire_date": "2023-11-14T08:47:21.039Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "fmh1t9vuegys2fntznpfrhalefqmi3t5",
+    "fields": {
+      "session_data": "eyJjYXJ0Ijp7fX0:1r37eE:UgR9calViGKfyxqwqOoBmzhHhz7AJyUxl1CKpobcqa8",
+      "expire_date": "2023-11-29T04:37:06.834Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "fxjv48a86czjsa9ebto01ybrw3iir38p",
+    "fields": {
+      "session_data": ".eJyNVdtunDAQ_RXkZ0JsbMOyb2kjRX2IFKmtVPUiZIzZJSGAuKStov33-pYyLGnUFy_rM3PmzHjseUZSDBPaPyMSm7Uu0Z7Eod6d1KEbfqM9D1E_1FKhPSLZDkcYIw13c6u9SIhKbaihGMf0gpALwj_hZM8TTfJV20311Bj4qu8bFdR3x65VAeHB3dAFt-JXwEl8U2i7am6aazXKoe6numvf8Pg-x5gw_YMZI2al0q7Y7rg1tiuz-8qupXewP7RabB3OEvvNF1bPrc4tqQQUHnamxUJBXegS7FBnv3GmAnxDCue8swGqcOvHwMqBymTDmjnnGGh1DhxWUQEjDHTIjSa7sgJQOJkeiM8lMSCSZtuQniIARwcLnoHQq4TEcu5Q5do5srYEBnTKrQfbbWlLQLtqgm2q5Fwyo6_XzBdllTA8zHQp_kpkBdKKQXxfwGrjIAEdOFEK74XrYCd1mwKsOkRf1AWg77zIAPg5j-ztRvaRtjV2OooQKkwBF1nhsJdhp4Ej8vfOn138H90Kb-0L6ptIgjxhTxegrJ4cdgA8Ppi5r-4O1AdePHjZXCV87VNAkQFnVzwaLJo8kAKm1bVl4BheuduReZgHpa5VUz8pMwsq0YwqRPWjOKgR7b89o3GQ-rG-FH19OfdNJ8pRf_d5P3TlLKfx0j7juXvGc8Jz_Yznt1dfovv-oNlFo4cI-mDoAv0djNNQtwd0-qEnhzi4CGYisRC14tEMko-Pelz1hg2dQgcmf0E3Myw6WpJBPdXqp-Exf8RkyPetnjV6bv1j2mhVY69kXdV6BGrQifAB3t991viTaOYl3BVJzXCycrzZzdYMwtf1-KBT7QadNrCLeeL6zJ42ITqD0ylEuZinYz6PashNtoii1V4h5INqDVDei_bQRbJrdRWLyJhEHh2j265UzTtvuyI4ivFooqesokS34w4TJQpGMMdJxTOcpjSRCS1LLijjmHBR0LSMk0JW2raguOSUZAk6_QHMyWfp:1r3E5o:3WKZZKVQuMwxsUIVJ7ZkeWCmYb0Vpz3L2xO-rCwENgA",
+      "expire_date": "2023-11-29T11:30:00.269Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "s24srcppqezm81cf6c0d237m1o9prvcb",
+    "fields": {
+      "session_data": ".eJxVjDEOgzAMRe_iuYpCSEPM2L1nQHbsFNoKpAAT4u4tEgvrf-_9DRKVBdptv0FH69J366ylGwRaqOCyMaWPjgeQN42vyaRpXMrA5lDMSWfznES_j9O9HPQ09__axxxrVWpy1YiLNiTMQsGiZ4t39iLoHKtiRCZytWeHPgRpuK6Us4f9BzfGO5E:1qvazc:JL-jFOx0rofZ25iLGx5dm1ucjeWMHtWWuusy4tB02kE",
+      "expire_date": "2023-11-08T10:20:04.053Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "szmcdklc3hpf0mjgfce6k995whmewj0e",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGll21p-Ekj5nsHa9Ng4gR4qTCnF3EikFtG9m3lsE3NYStpaWMLG4ChCX340wPlM9AD-w3mcZ57ouE8lDkSdtcpw5vW6n-3dQsJW97rzJoI3pe6UTktHKKpftoLwHFx0wWwRjlbZI4LlzFPPuEii2oAcnPl-pajZz:1r3Vcd:6I5LWiZVNk1Ues3NMORi4MeZogLht4mGMSeQODAk9A8",
+      "expire_date": "2023-11-30T06:13:03.701Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "tv6d5zzmlijfx5ecs7203yhgtij71avl",
+    "fields": {
+      "session_data": "eyJjYXJ0Ijp7fX0:1r37eP:t1i8b2lzzO4i1jwvkBRno5IAzLZpmzwJL_zPKp8HFyM",
+      "expire_date": "2023-11-29T04:37:17.203Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "uk4yni2aqcp2iss8hu55pwf2re2tvcci",
+    "fields": {
+      "session_data": ".eJytVFtvmzAU_isWUqRNIqkvQIA-taHp8pCtarKt2jpFDhwStxQQmE5Tlf8-25BB1E7aw14-HZ_Ldy728Yu14Y3cb5oaqo1IrNByLHuo2_L4EXJtSB54vismcZHLSmwn2mXSWevJskggu-x8Twj2vN6raI8RuvUpTdLYjxlMU8qIA27gBYGXuNPADbY-45zF1E05S1IACAD7U99LUpLEXJHGvJJW-GJRrFEXS7HWStgV1S8rJNS2ykrEoNL5Dpn4VAcVTa6iXNtKlKOyUEzZmJAxcdfYD0kQUvpN-UkhM22-b7BDuEYGBmODqUbHyI7RO9ToXSNjtFwt0CJPRS4kIELWH8bEI_ju9rOiTpssi6COK1FKUeTHJC0l7lM53oCS9NhZcagySMjQrKgACVelcTCe24hOPGQYWY-Oh945E-cNvW10jKJBepOSten9QdcuWjfVtnh_fl_d54YE-mkcezcyHsykZWjlZGBN0SAY92mctA924hCRk3aIjaLo1lG4WC5txCjGrTkedtVX6PQ1dONrb9MP0WoVIYLpyVRIH8le9TPg6ljUJXz8sogWF-ga5kUVA7pd3yGGXYzGyCcBHdTGem5K-pm07bLpsd2vYjwXNrrMGpBFIfc2uhY7vhUSXck9VDlI-x_HP7xAGIz_9SV0kxlMafieu9tXvebFp9W5fsIVQASZeAa9aCnParAt8cR3UFvh9xerrmL1rM94Kc6aMit4Uiu53JRVkTSxrM9GER4FFxovrwzODM5HERn5M4NXBqnRu0bGG7VVm-NWbfqtmjyUsFNV8UxttrXQZSAlo1p9TPnOOvxQ68x3bWX6m2C2lfMnvd03M-tgt0ri_9Gq5XyURWkCK3gW8FPH6gOXmjDM1QarD-R_7LAquy4hFqlQH5diaqvsCpnd6P_imaunoBt7Y9tN-Z339Yn3X57lMCAS9aMaUlGpgQ0i31wLNYzD4fAbqj3HKg:1rCkfu:L6dA6Edh3pT28V1wXfxn7tOWt5Zl0QGr9yRPC3J_tw0",
+      "expire_date": "2023-12-25T18:06:38.520Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "w3ywrusnspwg8399bru6icle111r3l8t",
+    "fields": {
+      "session_data": ".eJxVjDsOgzAQBe_iOrLWrD9AmT5nQGuvHUgikGxTIe4ekCiS9s282cRAax2HtcQ8TCx6geL2u3kK7zifgF80PxcZlrnmyctTkRct8rFw_Nwv9y8wUhmPd-N0QqV124KK5LUCAzaZDpxDGywyG0JtQBny6LixPqTD9QhsUHX2iAbKVfTbvn8B2LI5vw:1rBCAY:wx7OQYMhuoyKUWbIl10YztH7uWm4OouCQJ5nzSt0Y-s",
+      "expire_date": "2023-12-21T11:03:50.324Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "we8squqrgyc5blydb3086pt8t2irg1we",
+    "fields": {
+      "session_data": ".eJxVjDsOgzAQBe-ydWTZrD9AmT5nsNZeE0giW8JQIe4ekGho38y8DSLNC_Tb_gBP6zL6tabZTww9INy2QPGb8gn4Q_ldRCx5macgTkVctIpX4fR7Xu7tYKQ6HnXj9IBK67aVKlHQShppB9NJ59BGi8yGUBupDAV03NgQh8MNKNmg6izsf_CuOb8:1qvbHO:EzUTz05I0fQSMzLYs8AuZ7Q6cmlVcdFAqxC7CUuxLfk",
+      "expire_date": "2023-11-08T10:38:26.598Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "ynk1eji7ut6fme26v2m08grzll20ifjw",
+    "fields": {
+      "session_data": ".eJxVjDsOgzAQBe-ydWTZrD9AmT5nsNZeE0giW8JQIe4ekGho38y8DSLNC_Tb_gBP6zL6tabZTww9INy2QPGb8gn4Q_ldRCx5macgTkVctIpX4fR7Xu7tYKQ6HnXj9IBK67aVKlHQShppB9NJ59BGi8yGUBupDAV03NgQh8MNKNmg6izsf_CuOb8:1qvtQs:aKuuJRR5XW7ArS8Xb4XtUrjL8RH18dy-hH6pmZ-RZbQ",
+      "expire_date": "2023-11-09T06:01:26.596Z"
+    }
+  },
+  {
+    "model": "products.categoryimage",
+    "pk": 1,
+    "fields": {
+      "src": "app_category/category/Desktop.jpg",
+      "alt": "Desktop image"
+    }
+  },
+  {
+    "model": "products.categoryimage",
+    "pk": 2,
+    "fields": {
+      "src": "app_category/category/tablet.jpg",
+      "alt": "Tablet image"
+    }
+  },
+  {
+    "model": "products.categoryimage",
+    "pk": 3,
+    "fields": {
+      "src": "app_category/category/Laptop.jpg",
+      "alt": "Laptop image"
+    }
+  },
+  {
+    "model": "products.categoryimage",
+    "pk": 4,
+    "fields": {
+      "src": "app_category/category/smartphones.jpeg",
+      "alt": "Smartphones"
+    }
+  },
+  {
+    "model": "products.categoryimage",
+    "pk": 5,
+    "fields": {
+      "src": "app_category/category/apple_smartphones.png",
+      "alt": "apple smartphones"
+    }
+  },
+  {
+    "model": "products.categoryimage",
+    "pk": 6,
+    "fields": {
+      "src": "app_category/category/Samsung_smartphones.jpeg",
+      "alt": "Samsung smartphones"
+    }
+  },
+  {
+    "model": "products.categoryimage",
+    "pk": 7,
+    "fields": {
+      "src": "app_category/category/Honor_smartphones.jpeg",
+      "alt": "Honor smartphones"
+    }
+  },
+  {
+    "model": "products.categoryimage",
+    "pk": 8,
+    "fields": {
+      "src": "app_category/category/Xiaomi_smartphones.png",
+      "alt": "Xiaomi smartphones"
+    }
+  },
+  {
+    "model": "products.categoryimage",
+    "pk": 9,
+    "fields": {
+      "src": "app_category/category/Планшет_Samsung_Galaxy_Tab_S9_Ultra_SM-X910.jpg",
+      "alt": "Samsung Tablets"
+    }
+  },
+  {
+    "model": "products.categoryimage",
+    "pk": 10,
+    "fields": {
+      "src": "app_category/category/Планшет_Honor_Pad_X9_ELN-W09.jpg",
+      "alt": "Honor tablets"
+    }
+  },
+  {
+    "model": "products.categoryimage",
+    "pk": 11,
+    "fields": {
+      "src": "app_category/category/Планшет_Digma_Optima_8_X701.jpg",
+      "alt": "Digma tablets"
+    }
+  },
+  {
+    "model": "products.categoryimage",
+    "pk": 12,
+    "fields": {
+      "src": "app_category/category/Компьютер_iRU_Game_310H5GS.jpg",
+      "alt": "Desktop category"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 1,
+    "fields": {
+      "name": "Laptop"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 2,
+    "fields": {
+      "name": "Tablet"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 3,
+    "fields": {
+      "name": "PC"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 4,
+    "fields": {
+      "name": "Smartphone"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 5,
+    "fields": {
+      "name": "Android phones"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 6,
+    "fields": {
+      "name": "Apple phones"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 7,
+    "fields": {
+      "name": "Monitors"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 8,
+    "fields": {
+      "name": "TV"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 9,
+    "fields": {
+      "name": "Printers"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 10,
+    "fields": {
+      "name": "Inkjet printers"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 11,
+    "fields": {
+      "name": "Laser printers"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 12,
+    "fields": {
+      "name": "Scanners"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 13,
+    "fields": {
+      "name": "Barcode scanners"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 14,
+    "fields": {
+      "name": "Document scanners"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 15,
+    "fields": {
+      "name": "Input devices"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 16,
+    "fields": {
+      "name": "Mouses"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 17,
+    "fields": {
+      "name": "Keyboards"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 18,
+    "fields": {
+      "name": "Desktop"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 19,
+    "fields": {
+      "name": "Samsung tablets"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 20,
+    "fields": {
+      "name": "Digma tablets"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 21,
+    "fields": {
+      "name": "Honor tablets"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 22,
+    "fields": {
+      "name": "Xiaomi smartphones"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 23,
+    "fields": {
+      "name": "Honor smartphones"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 24,
+    "fields": {
+      "name": "Samsung smartphones"
+    }
+  },
+  {
+    "model": "products.sale",
+    "pk": 17,
+    "fields": {
+      "name": "Sale_name1",
+      "salePrice": "1.00",
+      "dateFrom": "2023-12-04T10:19:58Z",
+      "dateTo": "2023-12-11T10:19:58Z"
+    }
+  },
+  {
+    "model": "products.sale",
+    "pk": 18,
+    "fields": {
+      "name": "Sale_name2",
+      "salePrice": "2.00",
+      "dateFrom": "2023-12-04T10:21:26Z",
+      "dateTo": "2023-12-11T10:21:26Z"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 1,
+    "fields": {
+      "title": "PC",
+      "image": 1,
+      "parent": null,
+      "tags": [
+        3
+      ]
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 2,
+    "fields": {
+      "title": "Tablet",
+      "image": 2,
+      "parent": null,
+      "tags": [
+        2
+      ]
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 3,
+    "fields": {
+      "title": "Laptops",
+      "image": 3,
+      "parent": 1,
+      "tags": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 4,
+    "fields": {
+      "title": "Smartphones",
+      "image": 4,
+      "parent": null,
+      "tags": [
+        4
+      ]
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 5,
+    "fields": {
+      "title": "Apple Smartphones",
+      "image": 5,
+      "parent": 4,
+      "tags": [
+        6
+      ]
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 6,
+    "fields": {
+      "title": "Samsung smartphones",
+      "image": 6,
+      "parent": 4,
+      "tags": [
+        5,
+        24
+      ]
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 7,
+    "fields": {
+      "title": "Honor smartphones",
+      "image": 7,
+      "parent": 4,
+      "tags": [
+        5,
+        23
+      ]
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 8,
+    "fields": {
+      "title": "Xiaomi smartphones",
+      "image": 8,
+      "parent": 4,
+      "tags": [
+        5,
+        22
+      ]
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 9,
+    "fields": {
+      "title": "Samsung Tablets",
+      "image": 9,
+      "parent": 2,
+      "tags": [
+        19
+      ]
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 10,
+    "fields": {
+      "title": "Honor tablets",
+      "image": 10,
+      "parent": 2,
+      "tags": [
+        21
+      ]
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 11,
+    "fields": {
+      "title": "Digma tablets",
+      "image": 11,
+      "parent": 2,
+      "tags": [
+        20
+      ]
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 12,
+    "fields": {
+      "title": "Desktop",
+      "image": 12,
+      "parent": 1,
+      "tags": [
+        18
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "category": 9,
+      "price": "1185.80",
+      "count": 13,
+      "date": "2023-10-30T20:24:11Z",
+      "title": "Планшет Samsung Galaxy Tab S9+",
+      "description": "Планшет Samsung Galaxy Tab S9+ Wi-Fi Gray (SM-X810N) — 12,4-дюймовая модель, экран которой выполнен по технологии Dynamic AMOLED 2Х, отличается высокой яркостью 650 нит и естественной цветопередачей.",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "category": 2,
+      "price": "9701.03",
+      "count": 11,
+      "date": "2023-11-13T10:20:01Z",
+      "title": "Планшет Huawei MatePad Air",
+      "description": "Планшет Huawei MatePad Air , черный с экраном 8 дюймов представлен в компактном металлическом корпусе, который удобно держать в одной руке.",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "category": 11,
+      "price": "6859.02",
+      "count": 12,
+      "date": "2023-11-15T04:37:56Z",
+      "title": "Планшет Digma Optima 8 X701",
+      "description": "Простой в освоении планшет DIGMA Optima 8 X701 станет незаменимым помощником в учебе и работе. Устанавливайте полезные приложения и загружайте текстовые материалы для свободного чтения. Компактный формат устройства позволяет изучать информацию, удерживая его на весу без дискомфорта и других неудобств.",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": true,
+      "sale": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "category": 10,
+      "price": "176.40",
+      "count": 2,
+      "date": "2023-11-15T04:49:28Z",
+      "title": "Планшет Honor Pad X9 ELN-W09",
+      "description": "HONOR Pad X9 имеет 11,5-дюймовый экран HONOR FullView с высоким разрешением и поддержкой 1,07 миллиарда цветов обеспечивающий яркую и реалистичную картинку. Экран обладает 86% полезной площади и динамической частотой обновления до 120 Гц, что делает его идеальным для решения различных задач.",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "category": 9,
+      "price": "1372.00",
+      "count": 5,
+      "date": "2023-11-15T05:00:30Z",
+      "title": "Планшет Samsung Galaxy Tab S9 Ultra SM-X910",
+      "description": "Планшет Samsung Galaxy Tab S9 Ultra SM-X910 работает под управлением операционной системы Android 13, поэтому пользователю доступна полная интеграция с популярными сервисами Google, а также возможность скачивать приложения для работы, учебы и развлечений, мобильные игры и электронные книги напрямую из Play Market. На большом 14,6-дюймовом экране удобно обрабатывать фотографии, заниматься монтажом видеоклипов, а также смотреть фильмы и видеоролики.",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "category": 3,
+      "price": "785.86",
+      "count": 4,
+      "date": "2023-11-15T05:12:51Z",
+      "title": "Ноутбук игровой MSI Sword 17 A11UD-810XRU",
+      "description": "Экран: 17.3 \"; 1920х1080; IPS;\r\nПроцессор: Intel Core i5 11400H 2.7 ГГц (4.5 ГГц, в режиме Turbo)\r\nГрафический процессор: NVIDIA GeForce RTX 3050 Ti для ноутбуков - 4 ГБ;\r\nОперативная память: 8 ГБ, DDR4, 3200 МГц;\r\nДиск: SSD 512 ГБ;\r\nОперационная система: Free DOS;\r\nКлавиатура: с русскими буквами",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "category": 3,
+      "price": "547.66",
+      "count": 6,
+      "date": "2023-11-15T05:15:42Z",
+      "title": "Ноутбук игровой MSI GF63 Thin 11SC-623XRU",
+      "description": "Экран: 15.6 \"; 1920х1080; IPS;\r\nПроцессор: Intel Core i5 11400H 2.7 ГГц (4.5 ГГц, в режиме Turbo)\r\nГрафический процессор: NVIDIA GeForce GTX 1650 MAX Q - 4 ГБ;\r\nОперативная память: 8 ГБ, DDR4, 3200 МГц;\r\nДиск: SSD 256 ГБ;\r\nОперационная система: Free DOS;\r\nКлавиатура: с русскими буквами",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "category": 3,
+      "price": "776.16",
+      "count": 3,
+      "date": "2023-11-15T05:20:15Z",
+      "title": "Ноутбук игровой ASUS TUF Gaming F15 FX506HF-HN027",
+      "description": "Экран: 15.6 \"; 1920х1080; IPS;\r\nПроцессор: Intel Core i5 11400H 2.7 ГГц (4.5 ГГц, в режиме Turbo)\r\nГрафический процессор: NVIDIA GeForce RTX 2050 - 4 ГБ;\r\nОперативная память: 16 ГБ, DDR4, 3200 МГц;\r\nДиск: SSD 512 ГБ;\r\nОперационная система: без операционной системы;\r\nКлавиатура: с русскими буквами",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "category": 3,
+      "price": "679.14",
+      "count": 3,
+      "date": "2023-11-15T05:22:19Z",
+      "title": "Ноутбук Huawei MateBook D 14 MDF-X",
+      "description": "Экран: 14 \"; 1920х1200; IPS;\r\nПроцессор: Intel Core i5 1240P 1.7 ГГц (4.4 ГГц, в режиме Turbo)\r\nГрафический процессор: Intel Iris Xe graphics ;\r\nОперативная память: 16 ГБ, LPDDR4x;\r\nДиск: SSD 512 ГБ;\r\nОперационная система: Windows 11 Home;\r\nКлавиатура: с русскими буквами",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "category": 3,
+      "price": "513.24",
+      "count": 3,
+      "date": "2023-11-15T05:23:56Z",
+      "title": "Ноутбук TECNO MegaBook T1",
+      "description": "Экран: 15.6 \"; 1920х1080; IPS;\r\nПроцессор: AMD Ryzen 5 5560U 2.3 ГГц (4 ГГц, в режиме Turbo)\r\nГрафический процессор: AMD Radeon ;\r\nОперативная память: 16 ГБ, LPDDR4;\r\nДиск: SSD 512 ГБ;\r\nОперационная система: Windows 11 Home;\r\nКлавиатура: с русскими буквами",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+      "category": 5,
+      "price": "1787.50",
+      "count": 4,
+      "date": "2023-11-15T06:53:40Z",
+      "title": "Смартфон Apple iPhone 15 Pro 256Gb",
+      "description": "Apple iPhone 15 Pro — топовый смартфон с возможностью запуска игр, рассчитанных на ПК. Камера с тремя объективами и интеллектуальными функциями обработки кадров позволяет делать снимки кинематографического уровня.",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+      "category": 5,
+      "price": "2371.59",
+      "count": 3,
+      "date": "2023-11-15T06:56:12Z",
+      "title": "Apple iPhone 15 Pro Max 512Gb",
+      "description": "Apple iPhone 15 Pro Max — смартфон с процессором последнего поколения, поддержкой всех современных интерфейсов и тройной камерой. Большой набор инструментов позволяет использовать устройство для общения, работы, учебы, серфинга в интернете. Модель имеет расширенную защиту личных данных.",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 13,
+    "fields": {
+      "category": 6,
+      "price": "388.08",
+      "count": 2,
+      "date": "2023-11-15T07:24:47Z",
+      "title": "Смартфон Samsung Galaxy A54",
+      "description": "Экран: AMOLED Super AMOLED, 6.4\" (2340x1080),\r\nПроцессор: Samsung Exynos 1380;\r\nПамять: оперативная 8 ГБ, встроенная 256 ГБ,\r\nПоддержка сетей: 2G/3G/4G (LTE)/5G;\r\nСканер отпечатка пальцев: экран;\r\nРазмеры (ШхВхТ): 76.7 х 158.2 х 8.2 мм;",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 14,
+    "fields": {
+      "category": 6,
+      "price": "1298.00",
+      "count": 3,
+      "date": "2023-11-15T07:27:56Z",
+      "title": "Samsung Galaxy S23 Ultra 5G",
+      "description": "Экран: AMOLED Dynamic AMOLED 2X QHD+, 6.8\" (3088x1440),\r\nПроцессор: Qualcomm Snapdragon 8 Gen 2 for Galaxy;\r\nПамять: оперативная 12 ГБ, встроенная 512 ГБ,\r\nПоддержка сетей: 2G/3G/4G (LTE)/5G;\r\nСканер отпечатка пальцев: экран;\r\nРазмеры (ШхВхТ): 78.1 х 163.4 х 8.9 мм;",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 15,
+    "fields": {
+      "category": 7,
+      "price": "274.40",
+      "count": 2,
+      "date": "2023-11-15T07:48:50Z",
+      "title": "Смартфон Honor X9a 5G",
+      "description": "Экран: AMOLED FHD +, 6.67\" (2400x1080),\r\nПроцессор: Qualcomm Snapdragon 695;\r\nПамять: оперативная 6 ГБ, встроенная 128 ГБ,\r\nПоддержка сетей: 2G/3G/4G (LTE)/5G;\r\nСканер отпечатка пальцев: экран;\r\nРазмеры (ШхВхТ): 73.9 х 161.6 х 7.9 мм;",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 16,
+    "fields": {
+      "category": 7,
+      "price": "195.02",
+      "count": 2,
+      "date": "2023-11-15T07:51:01Z",
+      "title": "Смартфон Honor X8a",
+      "description": "Экран: LTPS, 6.7\" (2388x1080),\r\nПроцессор: MediaTek Helio G88;\r\nПамять: оперативная 6 ГБ, встроенная 128 ГБ,\r\nПоддержка сетей: 2G/3G/4G (LTE);\r\nСканер отпечатка пальцев: сбоку;\r\nРазмеры (ШхВхТ): 74.5 х 162.9 х 7.48 мм;",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 17,
+    "fields": {
+      "category": 7,
+      "price": "78.40",
+      "count": 0,
+      "date": "2023-11-15T07:53:39Z",
+      "title": "Смартфон Xiaomi Poco C40",
+      "description": "Смартфон Xiaomi Poco C40 имеет 6,71-дюймовый дисплей Dot Drop с визуальным 2,5D-эффектом и максимальным разрешением 1650×720 пикселей. Экран обладает широкими углами обзора и надежно защищен от царапин ударопрочным стеклом Corning Gorilla Glass",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": true,
+      "sale": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 18,
+    "fields": {
+      "category": 8,
+      "price": "137.20",
+      "count": 3,
+      "date": "2023-11-15T07:55:15Z",
+      "title": "Смартфон Xiaomi Poco M5",
+      "description": "Экран: IPS FHD+, 6.58\" (2408x1080),\r\nПроцессор: MediaTek HELIO G99;\r\nПамять: оперативная 6 ГБ, встроенная 128 ГБ,\r\nПоддержка сетей: 2G/3G/4G (LTE);\r\nСканер отпечатка пальцев: сбоку;\r\nРазмеры (ШхВхТ): 76.1 х 163.4 х 8.9 мм;",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 19,
+    "fields": {
+      "category": 12,
+      "price": "656.60",
+      "count": 2,
+      "date": "2023-11-15T08:17:39Z",
+      "title": "Компьютер iRU Game 310H5GS",
+      "description": "Процессор: Intel Core i5 11400F, 2.6 ГГц (4.4 ГГц, в режиме Turbo);\r\nОперативная память: 16 ГБ, DDR4, DIMM, 3200 МГц;\r\nДиски: SSD 1024 ГБ;\r\nГрафика: NVIDIA GeForce RTX 3050 - 8192 Мб;\r\nСвязь: Gigabit Ethernet,\r\nОперационная система: Free DOS;",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": true,
+      "sale": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 20,
+    "fields": {
+      "category": 12,
+      "price": "841.82",
+      "count": 2,
+      "date": "2023-11-15T08:19:22Z",
+      "title": "Компьютер MSI Infinite 11TH-1610XRU",
+      "description": "Процессор: Intel Core i5 11400F, 2.6 ГГц (4.4 ГГц, в режиме Turbo);\r\nОперативная память: 16 ГБ, DDR4, DIMM, 3200 МГц;\r\nДиски: SSD 1024 ГБ;\r\nГрафика: NVIDIA GeForce RTX 3050 - 8192 Мб;\r\nСвязь: Wi-Fi, Bluetooth, Gigabit Ethernet,\r\nОперационная система: noOS;",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 21,
+    "fields": {
+      "category": 12,
+      "price": "882.00",
+      "count": 2,
+      "date": "2023-11-15T08:21:18Z",
+      "title": "Компьютер iRU Game 310H5GMA",
+      "description": "Процессор: Intel Core i5 11400F, 2.6 ГГц (4.4 ГГц, в режиме Turbo);\r\nОперативная память: 16 ГБ, DDR4, DIMM, 3200 МГц;\r\nДиски: SSD 1024 ГБ;\r\nГрафика: NVIDIA GeForce RTX 3060Ti - 8192 Мб;\r\nСвязь: Gigabit Ethernet,\r\nОперационная система: Free DOS;",
+      "freeDelivery": false,
+      "rating": "5.0",
+      "limited": false,
+      "sale": 18
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1,
+    "fields": {
+      "name": "CPU",
+      "value": "Spreadtrum SC9863",
+      "product": 3
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 2,
+    "fields": {
+      "name": "DIMM",
+      "value": "3072 Мб",
+      "product": 3
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 3,
+    "fields": {
+      "name": "Disk storage",
+      "value": "32 ГБ",
+      "product": 3
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 4,
+    "fields": {
+      "name": "CPU",
+      "value": "Spreadtrum SC9863",
+      "product": 2
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 5,
+    "fields": {
+      "name": "DIMM",
+      "value": "16 гб",
+      "product": 2
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 6,
+    "fields": {
+      "name": "Disk storage",
+      "value": "64 ГБ",
+      "product": 2
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 7,
+    "fields": {
+      "name": "CPU",
+      "value": "Snapdragon 888",
+      "product": 1
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 8,
+    "fields": {
+      "name": "DIMM",
+      "value": "12 гб",
+      "product": 1
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 9,
+    "fields": {
+      "name": "Disk storage",
+      "value": "128 ГБ",
+      "product": 1
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 10,
+    "fields": {
+      "name": "CPU",
+      "value": "Qualcomm Snapdragon 685",
+      "product": 4
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 11,
+    "fields": {
+      "name": "DIMM",
+      "value": "4096 Мб",
+      "product": 4
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 12,
+    "fields": {
+      "name": "Disk storage",
+      "value": "128 ГБ",
+      "product": 4
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 13,
+    "fields": {
+      "name": "CPU",
+      "value": "Qualcomm Snapdragon 8 Gen 2",
+      "product": 5
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 14,
+    "fields": {
+      "name": "DIMM",
+      "value": "Qualcomm Adreno 740",
+      "product": 5
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 15,
+    "fields": {
+      "name": "Disk storage",
+      "value": "1024 ГБ",
+      "product": 5
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 16,
+    "fields": {
+      "name": "CPU",
+      "value": "Intel Core i5 11400H 2.7 ГГц",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 17,
+    "fields": {
+      "name": "GPU",
+      "value": "NVIDIA GeForce RTX 3050 Ti",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 18,
+    "fields": {
+      "name": "DIMM",
+      "value": "8 ГБ, DDR4, 3200 МГц;",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 19,
+    "fields": {
+      "name": "CPU",
+      "value": "Intel Core i5 11400H 2.7 ГГц",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 20,
+    "fields": {
+      "name": "GPU",
+      "value": "NVIDIA GeForce GTX 1650 MAX Q - 4 ГБ;",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 21,
+    "fields": {
+      "name": "DIMM",
+      "value": "8 ГБ, DDR4, 3200 МГц;",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 22,
+    "fields": {
+      "name": "CPU",
+      "value": "Intel Core i5 11400H 2.7 ГГц (4.5 ГГц, в режиме Turbo)",
+      "product": 8
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 23,
+    "fields": {
+      "name": "GPU",
+      "value": "NVIDIA GeForce RTX 2050 - 4 ГБ;",
+      "product": 8
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 24,
+    "fields": {
+      "name": "DIMM",
+      "value": "16 ГБ, DDR4, 3200 МГц;",
+      "product": 8
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 25,
+    "fields": {
+      "name": "CPU",
+      "value": "Intel Core i5 1240P 1.7 ГГц",
+      "product": 9
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 26,
+    "fields": {
+      "name": "GPU",
+      "value": "Intel Iris Xe graphics",
+      "product": 9
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 27,
+    "fields": {
+      "name": "DIMM",
+      "value": "16 ГБ, LPDDR4x;",
+      "product": 9
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 28,
+    "fields": {
+      "name": "CPU",
+      "value": "AMD Ryzen 5 5560U 2.3 ГГц",
+      "product": 10
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 29,
+    "fields": {
+      "name": "DIMM",
+      "value": "16 ГБ, LPDDR4;",
+      "product": 10
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 30,
+    "fields": {
+      "name": "Disk storage",
+      "value": "SSD 512 ГБ;",
+      "product": 10
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 31,
+    "fields": {
+      "name": "CPU",
+      "value": "Apple A17 Pro",
+      "product": 11
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 32,
+    "fields": {
+      "name": "GPU",
+      "value": "Apple",
+      "product": 11
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 33,
+    "fields": {
+      "name": "Disk storage",
+      "value": "256 ГБ",
+      "product": 11
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 34,
+    "fields": {
+      "name": "CPU",
+      "value": "Apple A17 Pro",
+      "product": 12
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 35,
+    "fields": {
+      "name": "GPU",
+      "value": "Apple",
+      "product": 12
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 36,
+    "fields": {
+      "name": "Disk storage",
+      "value": "256 ГБ",
+      "product": 12
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 37,
+    "fields": {
+      "name": "CPU",
+      "value": "Samsung Exynos 1380;",
+      "product": 13
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 38,
+    "fields": {
+      "name": "GPU",
+      "value": "ARM Mali-G68 MP5",
+      "product": 13
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 39,
+    "fields": {
+      "name": "Disk storage",
+      "value": "64 ГБ",
+      "product": 13
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 40,
+    "fields": {
+      "name": "CPU",
+      "value": "Qualcomm Snapdragon 8 Gen 2 for Galaxy",
+      "product": 14
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 41,
+    "fields": {
+      "name": "DIMM",
+      "value": "оперативная 12 ГБ,",
+      "product": 14
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 42,
+    "fields": {
+      "name": "Disk storage",
+      "value": "512 ГБ",
+      "product": 14
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 43,
+    "fields": {
+      "name": "CPU",
+      "value": "Qualcomm Snapdragon 695",
+      "product": 15
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 44,
+    "fields": {
+      "name": "GPU",
+      "value": "Qualcomm Adreno 619",
+      "product": 15
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 45,
+    "fields": {
+      "name": "DIMM",
+      "value": "128 ГБ",
+      "product": 15
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 46,
+    "fields": {
+      "name": "CPU",
+      "value": "MediaTek Helio G88",
+      "product": 16
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 47,
+    "fields": {
+      "name": "GPU",
+      "value": "ARM Mali-G52 MC2",
+      "product": 16
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 48,
+    "fields": {
+      "name": "Disk storage",
+      "value": "128 ГБ",
+      "product": 16
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 49,
+    "fields": {
+      "name": "CPU",
+      "value": "JLQ JR510",
+      "product": 17
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 50,
+    "fields": {
+      "name": "GPU",
+      "value": "ARM Mali-G52",
+      "product": 17
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 51,
+    "fields": {
+      "name": "Disk storage",
+      "value": "64 ГБ",
+      "product": 17
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 52,
+    "fields": {
+      "name": "CPU",
+      "value": "MediaTek HELIO G99",
+      "product": 18
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 53,
+    "fields": {
+      "name": "GPU",
+      "value": "ARM Mali-G57 MC2",
+      "product": 18
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 54,
+    "fields": {
+      "name": "Disk storage",
+      "value": "128 ГБ",
+      "product": 18
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 55,
+    "fields": {
+      "name": "CPU",
+      "value": "Intel Core i5 11400F",
+      "product": 19
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 56,
+    "fields": {
+      "name": "GPU",
+      "value": "NVIDIA GeForce RTX 3050 - 8192 Мб;",
+      "product": 19
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 57,
+    "fields": {
+      "name": "Disk storage",
+      "value": "SSD 1024ГБ",
+      "product": 19
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 58,
+    "fields": {
+      "name": "CPU",
+      "value": "Intel Core i5 11400F",
+      "product": 20
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 59,
+    "fields": {
+      "name": "GPU",
+      "value": "NVIDIA GeForce RTX 3050",
+      "product": 20
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 60,
+    "fields": {
+      "name": "Disk storage",
+      "value": "SSD 1024 ГБ",
+      "product": 20
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 61,
+    "fields": {
+      "name": "CPU",
+      "value": "Intel Core i5 11400F",
+      "product": 21
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 62,
+    "fields": {
+      "name": "GPU",
+      "value": "NVIDIA GeForce RTX 3060Ti - 8192 Мб;",
+      "product": 21
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 63,
+    "fields": {
+      "name": "Disk storage",
+      "value": "SSD 1024 ГБ",
+      "product": 21
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 1,
+    "fields": {
+      "src": "app_products/tablet.jpg",
+      "alt": "Image alt string",
+      "product": 1
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 2,
+    "fields": {
+      "src": "app_products/Планшет_Huawei_MatePad_Air.jpeg",
+      "alt": "Планшет Huawei MatePad Air",
+      "product": 2
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 3,
+    "fields": {
+      "src": "app_products/Планшет_Digma_Optima_8_X701.jpg",
+      "alt": "Планшет Digma Optima 8 X701",
+      "product": 3
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 4,
+    "fields": {
+      "src": "app_products/Планшет_Honor_Pad_X9_ELN-W09.jpg",
+      "alt": "Image alt string",
+      "product": 4
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 5,
+    "fields": {
+      "src": "app_products/Планшет_Samsung_Galaxy_Tab_S9_Ultra_SM-X910.jpg",
+      "alt": "Image alt string",
+      "product": 5
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 6,
+    "fields": {
+      "src": "app_products/Ноутбук_игровой_MSI_Sword_17_A11UD-810XRU.png",
+      "alt": "Image alt string",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 7,
+    "fields": {
+      "src": "app_products/Ноутбук_игровой_MSI_GF63_Thin_11SC-623XRU.jpeg",
+      "alt": "Image alt string",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 8,
+    "fields": {
+      "src": "app_products/Ноутбук_игровой_ASUS_TUF_Gaming_F15_FX506HF-HN027.jpg",
+      "alt": "Image alt string",
+      "product": 8
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 9,
+    "fields": {
+      "src": "app_products/Ноутбук_Huawei_MateBook_D_14_MDF-X.jpg",
+      "alt": "Image alt string",
+      "product": 9
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 10,
+    "fields": {
+      "src": "app_products/Ноутбук_TECNO_MegaBook_T1.jpg",
+      "alt": "Image alt string",
+      "product": 10
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 11,
+    "fields": {
+      "src": "app_products/Apple_iPhone_15_Pro.jpg",
+      "alt": "Image alt string",
+      "product": 11
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 12,
+    "fields": {
+      "src": "app_products/Apple_iPhone_15_Pro_MAX.jpg",
+      "alt": "Image alt string",
+      "product": 12
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 13,
+    "fields": {
+      "src": "app_products/Samsung_galaxy_a54.png",
+      "alt": "Image alt string",
+      "product": 13
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 14,
+    "fields": {
+      "src": "app_products/Samsung_Galaxy_S23_Ultra_5G.jpg",
+      "alt": "Image alt string",
+      "product": 14
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 15,
+    "fields": {
+      "src": "app_products/Смартфон_Honor_X9a_5G_.png",
+      "alt": "Image alt string",
+      "product": 15
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 16,
+    "fields": {
+      "src": "app_products/Смартфон_Honor_X8a.jpg",
+      "alt": "Image alt string",
+      "product": 16
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 17,
+    "fields": {
+      "src": "app_products/Смартфон_Xiaomi_Poco_C40.jpg",
+      "alt": "Image alt string",
+      "product": 17
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 18,
+    "fields": {
+      "src": "app_products/Смартфон_Xiaomi_Poco_M5.jpg",
+      "alt": "Image alt string",
+      "product": 18
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 19,
+    "fields": {
+      "src": "app_products/Компьютер_iRU_Game_310H5GS.jpg",
+      "alt": "Image alt string",
+      "product": 19
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 20,
+    "fields": {
+      "src": "app_products/Компьютер_MSI_Infinite_11TH-1610X.jpeg",
+      "alt": "Image alt string",
+      "product": 20
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 21,
+    "fields": {
+      "src": "app_products/Компьютер_iRU_Game_310H5GMA.jpg",
+      "alt": "Image alt string",
+      "product": 21
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 1,
+    "fields": {
+      "createdAt": "2023-12-04T06:31:24.736Z",
+      "paid": false,
+      "profile": 4,
+      "fullName": null,
+      "phone": null,
+      "email": null,
+      "address": null,
+      "city": null,
+      "deliveryType": "paid",
+      "paymentType": "online",
+      "status": "accepted",
+      "session_id": null,
+      "updated": false,
+      "totalCost": "32417.00"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 2,
+    "fields": {
+      "createdAt": "2023-12-04T12:18:34.039Z",
+      "paid": false,
+      "profile": null,
+      "fullName": null,
+      "phone": null,
+      "email": null,
+      "address": null,
+      "city": null,
+      "deliveryType": "paid",
+      "paymentType": "online",
+      "status": "accepted",
+      "session_id": "mov70262uiq47cufcb5g4vo6u67bqxld",
+      "updated": false,
+      "totalCost": "785.86"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 3,
+    "fields": {
+      "createdAt": "2023-12-11T15:34:28.595Z",
+      "paid": true,
+      "profile": 2,
+      "fullName": "user1",
+      "phone": 791222222,
+      "email": "ys2@mail.ru",
+      "address": null,
+      "city": null,
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "status": "Paid",
+      "session_id": null,
+      "updated": false,
+      "totalCost": "10477.19"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 4,
+    "fields": {
+      "createdAt": "2023-12-11T18:00:31.914Z",
+      "paid": true,
+      "profile": 2,
+      "fullName": "user1",
+      "phone": 791222222,
+      "email": "ys2@mail.ru",
+      "address": "ibis Moscow Kievskaya",
+      "city": "Москва",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "status": "Paid",
+      "session_id": null,
+      "updated": false,
+      "totalCost": "78.40"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 5,
+    "fields": {
+      "createdAt": "2023-12-11T18:05:10.836Z",
+      "paid": true,
+      "profile": 3,
+      "fullName": "user2",
+      "phone": 432432,
+      "email": "hfgs@gmail.com",
+      "address": "Kozelksibis Moscow Kievskayaibis Moscow Kievskayaibis Moscow Kievskaya",
+      "city": "Kozelsk",
+      "deliveryType": "express",
+      "paymentType": "online",
+      "status": "Paid",
+      "session_id": null,
+      "updated": false,
+      "totalCost": "1787.50"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 6,
+    "fields": {
+      "createdAt": "2023-12-11T18:06:42.745Z",
+      "paid": false,
+      "profile": 3,
+      "fullName": "user2",
+      "phone": 222,
+      "email": "y2132s@mail.ru",
+      "address": "SPG st.",
+      "city": "SPB",
+      "deliveryType": "express",
+      "paymentType": "online",
+      "status": "accepted",
+      "session_id": null,
+      "updated": false,
+      "totalCost": "841.82"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 3,
+    "fields": {
+      "product": 1,
+      "order": 1,
+      "count": 2
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 4,
+    "fields": {
+      "product": 2,
+      "order": 1,
+      "count": 3
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 5,
+    "fields": {
+      "product": 1,
+      "order": 1,
+      "count": 2
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 6,
+    "fields": {
+      "product": 2,
+      "order": 1,
+      "count": 3
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 7,
+    "fields": {
+      "product": 6,
+      "order": 2,
+      "count": 2
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 9,
+    "fields": {
+      "product": 2,
+      "order": 3,
+      "count": 1
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 10,
+    "fields": {
+      "product": 8,
+      "order": 3,
+      "count": 1
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 11,
+    "fields": {
+      "product": 17,
+      "order": 4,
+      "count": 2
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 12,
+    "fields": {
+      "product": 11,
+      "order": 5,
+      "count": 3
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 13,
+    "fields": {
+      "product": 20,
+      "order": 6,
+      "count": 5
+    }
+  },
+  {
+    "model": "users.avatar",
+    "pk": 1,
+    "fields": {
+      "src": "app_users/avatars/user_avatars/Screenshot_from_2023-11-21_16-12-23.png",
+      "alt": "Desktop.jpg"
+    }
+  },
+  {
+    "model": "users.avatar",
+    "pk": 4,
+    "fields": {
+      "src": "app_users/avatars/user_avatars/apple_smartphones.png",
+      "alt": "apple_smartphones.png"
+    }
+  },
+  {
+    "model": "users.avatar",
+    "pk": 5,
+    "fields": {
+      "src": "app_users/avatars/user_avatars/apple_smartphones_ws6Okrg.png",
+      "alt": "apple_smartphones.png"
+    }
+  },
+  {
+    "model": "users.avatar",
+    "pk": 6,
+    "fields": {
+      "src": "app_users/avatars/user_avatars/Компьютер_MSI_Infinite_11TH-1610X.jpeg",
+      "alt": "Компьютер MSI Infinite 11TH-1610X.jpeg"
+    }
+  },
+  {
+    "model": "users.profile",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "avatar": 1,
+      "fullName": "dodo dodo dodo",
+      "phone": 41232,
+      "email": "ys@mail.ru",
+      "balance": "0.00"
+    }
+  },
+  {
+    "model": "users.profile",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "avatar": null,
+      "fullName": "user1",
+      "phone": 791222222,
+      "email": "ys2@mail.ru",
+      "balance": "0.00"
+    }
+  },
+  {
+    "model": "users.profile",
+    "pk": 3,
+    "fields": {
+      "user": 4,
+      "avatar": null,
+      "fullName": "user2",
+      "phone": null,
+      "email": null,
+      "balance": "0.00"
+    }
+  },
+  {
+    "model": "users.profile",
+    "pk": 4,
+    "fields": {
+      "user": 5,
+      "avatar": null,
+      "fullName": "Dodo",
+      "phone": null,
+      "email": null,
+      "balance": "0.00"
+    }
+  },
+  {
+    "model": "users.profile",
+    "pk": 5,
+    "fields": {
+      "user": 3,
+      "avatar": 1,
+      "fullName": "Admin",
+      "phone": null,
+      "email": null,
+      "balance": "0.00"
+    }
+  }
+]
